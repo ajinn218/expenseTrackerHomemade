@@ -1,0 +1,22 @@
+.floating-tab-button {
+    -fx-background-color: #ffffff; /* White background color */
+    -fx-border-radius: 20; /* Adjust the border radius to make it rounded */
+    -fx-padding: 10 20; /* Adjust padding as needed */
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0, 0, 2); /* Add drop shadow effect */
+    -fx-text-fill: #000000; /* Black text color */
+}
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ff8f00;
+}
+
+.text-field {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
